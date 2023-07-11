@@ -5,7 +5,6 @@ I’m a junior Full-Stack Developer in a training living in France, using JavaSc
 ## Skill set:
 
 <p align="left">
-
 <img src="https://raw.githubusercontent.com/ChrissDir/ChrissDir/master/assets/HTML5_logo.svg" height="40" width="auto">
 <img src="https://raw.githubusercontent.com/ChrissDir/ChrissDir/master/assets/CSS3_logo.svg" height="40" width="auto">
 <img src="https://raw.githubusercontent.com/ChrissDir/ChrissDir/master/assets/Javascript_logo.svg" height="40" width="auto">
@@ -19,6 +18,29 @@ I’m a junior Full-Stack Developer in a training living in France, using JavaSc
 <img src="https://raw.githubusercontent.com/ChrissDir/ChrissDir/master/assets/MySQL_logo.svg" height="40" width="auto">
 <img src="https://raw.githubusercontent.com/ChrissDir/ChrissDir/master/assets/Wordpress_logo.svg" height="40" width="auto">
 <img src="https://raw.githubusercontent.com/ChrissDir/ChrissDir/master/assets/React_logo.svg" height="40" width="auto">
-<img src="https://raw.githubusercontent.com/ChrissDir/ChrissDir/master/assets/Symfony_logo.svg" height="40" width="auto">
-  
+<img src="https://raw.githubusercontent.com/ChrissDir/ChrissDir/master/assets/Symfony_logo.svg" height="40" width="auto">  
 </p>
+
+### :technologist: I'm currently working on:
+
+- Creating a website with a dictionnary API 
+- My future
+
+### :nerd_face: I'm currently learning:
+
+- Javascript
+- MySQL
+- Sass
+- PHP
+
+### :thinking: I want to learn:
+
+- More of javascript
+- Efficacity of my frameworks
+- Python
+
+### Outside of coding I enjoy:
+
+- Playing video games :video_game:
+- Watching streamers on twitch/youtube :tv:
+- Sci-fi movies/Tv shows/Fantasy/Animes :vulcan_salute:
