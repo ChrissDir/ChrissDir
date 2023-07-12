@@ -26,7 +26,7 @@ I’m a junior Full-Stack Developer in a training living in France, using JavaSc
 - Creating a website with a dictionnary API 
 - My future
 
-### :nerd_face: I'm currently learning:
+### :books: I'm currently learning:
 
 - Javascript
 - MySQL
